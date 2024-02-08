@@ -1,0 +1,4 @@
+com\my_first_http_server\util\json.class
+com\my_first_http_server\config\ConfigurationManager.class
+com\my_first_http_server\HttpServer.class
+com\my_first_http_server\config\Configuration.class
